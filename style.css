@@ -108,7 +108,7 @@ nav.nav-menu {
     margin-left: 80px;
   }
   a {
-    color: #ee19c0;
+    color: #e71d7c;
   }
   a:hover{
     color: #6c6d71;
@@ -155,8 +155,8 @@ nav.nav-menu {
       color: #f36827;
     }
   h1 {
-    font-size: 35px;
-    color: #000000;
+    font-size: 50px;
+    color: #8835c3;
     text-align: center;
     margin-left: 50px;
     padding-top: 30px;
@@ -170,6 +170,7 @@ nav.nav-menu {
    margin-left: 45px;
    margin-right: 25px;
    color: #000000;
+   font-weight: 500;
   }
   h3 {
     font-size: 22px;
